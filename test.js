@@ -51,4 +51,5 @@ flat.addOwner(oleg);
 flat.addOwner(yana);
 
 const house =  new House();
+const maxAmount = 10;
 house.addFlat(flat);
